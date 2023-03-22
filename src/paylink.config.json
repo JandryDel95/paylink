@@ -12,28 +12,28 @@
     {
       "label": "Email",
       "value": "bx-envelope",
-      "link": "mailto:dlcastillo3015@gmail.com"
+      "link": "mailto:jandelgado95@gmail.com"
     },
-    { "label": "Link", "value": "bx-link", "link": "https://dlcastillop.com" },
+    { "label": "Link", "value": "bx-link", "link": "" },
     {
       "label": "GitHub",
       "value": "bxl-github",
-      "link": "https://github.com/dlcastillop"
+      "link": "https://github.com/JandryDel95"
     },
     {
       "label": "Twitter",
       "value": "bxl-twitter",
-      "link": "https://twitter.com/dlcastillop"
+      "link": "https://twitter.com/Jan_Del95"
     },
     {
       "label": "LinkedIn",
       "value": "bxl-linkedin",
-      "link": "https://linkedin.com/in/dlcastillop"
+      "link": "https://www.linkedin.com/in/jandel95/"
     },
     {
       "label": "Instagram",
       "value": "bxl-instagram",
-      "link": "https://instagram.com/dlcastillop"
+      "link": "https://www.instagram.com/jandry_es/"
     },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
     { "label": "Facebook", "value": "bxl-facebook", "link": "" },
